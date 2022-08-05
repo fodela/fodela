@@ -3,7 +3,7 @@
 <h3">A passionate fullstack developer from Ghana🇬🇭</h3>
 
 [ [See repo ↗︎][repo-url] ]
-![fodela's professional banner](banner.png)
+![fodela's professional banner](main_banner.png)
 </div>
 
 - ⚡ Fun fact **I love monitors**
