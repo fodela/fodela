@@ -1,6 +1,6 @@
 <div align="center">
 <h1 >Hi 👋, I'm Delali</h1>
-<h3">A passionate fullstack developer from Ghana, West Africa.</h3>
+<h3">A passionate fullstack developer from Ghana🇬🇭</h3>
 
 [ [See repo ↗︎][repo-url] ]
 ![fodela's professional banner](banner.png)
