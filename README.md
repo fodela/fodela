@@ -23,8 +23,7 @@
 <div align=center>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fodela&" alt="fodela" /></p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fodela&theme=dark)](https://git.io/streak-stats)
 </div>
 
 [repo-url]: https://github.com/fodela?tab=repositories
