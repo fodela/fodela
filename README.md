@@ -23,7 +23,7 @@
 <div align=center>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fodela&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fodela)](https://git.io/streak-stats)
 </div>
 
 [repo-url]: https://github.com/fodela?tab=repositories
