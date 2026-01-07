@@ -1,12 +1,12 @@
 <div align="center">
-<h1 >Hi 👋, I'm Delali</h1>
-<h3">A fullstack developer from Ghana🇬🇭</h3>
+<h1 >Hi 👋, I'm Fodela</h1>
+<h3">A doctor who codes and I'm from Ghana🇬🇭</h3>
 
 [ [See repo ↗︎][repo-url] ]
 ![fodela's professional banner](main_banner.png)
 </div>
 
-- ⚡ Fun fact **I'm a medical doctor**
+- ⚡ Fun fact **I work full time as a medical doctor**
 
 <h3 align="left">You can find me:</h3>
 <div align="left">
