@@ -18,7 +18,6 @@
 - Sharpening my problem solving skills on <a href="https://www.hackerrank.com/fodela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fodela" height="30" width="40" /></a>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fodela&theme=dark)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fodela&theme=dark)](https://git.io/streak-stats)
 </div>
